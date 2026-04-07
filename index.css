@@ -1,0 +1,60 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.desktop-1 {
+  	width: 100%;
+  	height: 1024px;
+  	position: relative;
+  	background-color: #000;
+  	overflow: hidden;
+  	text-align: center;
+  	font-size: 16px;
+  	color: #fff;
+  	font-family: 'Albert Sans';
+}
+.menu-bar {
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	background-color: #000;
+  	width: 1440px;
+  	height: 96px;
+}
+.pyc-logo-icon {
+  	position: absolute;
+  	top: 24px;
+  	left: 48px;
+  	width: 41px;
+  	height: 48px;
+}
+.contact {
+  	position: absolute;
+  	top: 38px;
+  	right: 72px;
+  	text-transform: capitalize;
+  	font-weight: 500;
+}
+.newsletter {
+  	position: absolute;
+  	top: 38px;
+  	left: 327px;
+  	text-transform: capitalize;
+  	font-weight: 500;
+}
+.our-team {
+  	position: absolute;
+  	top: 38px;
+  	left: 230px;
+  	text-transform: capitalize;
+  	font-weight: 500;
+}
+.about {
+  	position: absolute;
+  	top: 38px;
+  	left: 161px;
+  	text-transform: capitalize;
+  	font-weight: 500;
+}
+
